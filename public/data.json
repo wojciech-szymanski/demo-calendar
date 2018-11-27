@@ -1,0 +1,18 @@
+{
+    "events": [{
+        "id": "82663b69-3961-46e3-8f67-dfd2ffba51a6",
+        "title": "John's birthday",
+        "date": "2018-11-10",
+        "colour": "orange"
+    }, {
+        "id": "4274bc68-cb2c-40cd-ab58-d7fa8a01c9eb",
+        "title": "Kids at mums",
+        "date": "2018-11-10",
+        "colour": "green"
+    }, {
+        "id": "dd4f4de5-d333-4f28-913c-c9b3849688c0",
+        "title": "React conference",
+        "date": "2018-11-15",
+        "colour": "yellow"
+    }]
+}
